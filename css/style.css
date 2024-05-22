@@ -1,0 +1,19 @@
+/* This . is represent the class attribute */
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+#email {
+    width: 100%;
+    background-color: blueviolet;
+}
+
+
+/* .setform {
+    width: 100%;
+    background-color: blueviolet;
+} */
